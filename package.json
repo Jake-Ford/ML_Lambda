@@ -1,0 +1,19 @@
+{
+    "name": "ml-model",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "deploy": "^1.0.3",
+        "development": "^0.0.6",
+        "serverless": "^4.4.7"
+    },
+    "devDependencies": {
+        "serverless-plugin-warmup": "8.2.1"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}
